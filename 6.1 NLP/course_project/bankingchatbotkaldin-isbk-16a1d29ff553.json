@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bankingchatbotkaldin-isbk",
+  "private_key_id": "16a1d29ff553e439bc324c2b977e6c69406507d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCczDXnlsTWc+My\nfGiArtRM3dSql1J0NzlDlTwhcASWNE2uy/auej1FD9on2Pc9qeM3klnwFU/+NuD9\n60uS/VZ0ELKYEdKWCu+OPfTGnqdEnn3dTI9wHVws8wBfjvt1D6bmD+nQBJ4gXICI\nrP9x6FnAjDUBo0Q8uq/lPNIwfCAhJQJ1QIkM8m4kYHz15bLc1pHUayvPTOSnAr8Y\n1CBWa4h7yiSi/U3+rOlb699NRPN6gR5avRIBtLTTl3MgW+hXI/Y+1L1t034dqCGa\np5hUAPgCeMI+uqa8dSRS+zCoZe9WkGj9vbNHp9SF/4U67DDnMUnAvikrwXvFL57Z\nlCqOzYdLAgMBAAECggEAAMJCPoaDGbCXjbkpaPoE9Vbw07SGGyGLSZGcKA3v5RQy\nuLZW/B2Dqg+7aWGfl1ujnwi6c7LUChxqNqsKrhbuHK4ErJS61Va54GaEsT4M/C7c\n2BMp8eEf1D3cJ2+R4E1SQZ8bwrx1psgb0ngtMk1tZcT9RVlCGB3P18cAE2j+X3qu\n7OLav9TIl5OYdFjnOjNP8ydXK4I980eESq9OdcLt6tw5JjLhXcllamIP3OaA8Mgh\nPNcGIfECXEp02Joivh5RsLwXTTTg6jgIuNWbMGOzK0JNqwZyuGA7W9qiY0B3iHfI\nU0rTXetELOFDtJ3mwHVJgfRz6IvAxTn+OPBy8a2PjQKBgQDcIRhZgjB0OG7F6akQ\npm1ozGj+Naj1vMz3o0Q9dytxHNTS6PBPukr+fWWseSuDIL0mSiSlQ/Ho9os88+Oh\ndyTs52zjhfvIkU2qcGXTBW1YeNvU2VBmcdOVYDF5MCIM0kkw8JCwyOwoTaSj8ElA\n5u/7p1CwKRZLsxXsYD5FesvAjwKBgQC2WS11E2hx5VXpIxYZc7jP3nmkxqSBIC5S\nqfKCodyq+sIxPByuFxrcHX/ySYMrPmZ1d0uiLOXuu24I7R+dtQh5FnjoDz9UV8ul\n84J1RLYmGF2gDGaOME2PasoPRYhDKGmOFjObhVoQ/tO/nyqCehpSEwCeRla4XEec\nd3LG+gozhQKBgQDKG+jLZekvDBFIzXxYuTWDHwrXPFVhKnPWeqTQ+nV8aUhOTWk3\nCoiImIGdlbMJtil02mZDBts5VgQJdrPtMANLMECdtgqy4BY7Au+6jCUVMgJErzJO\nnPvzDlreNf9NXlWtBXMTnaaWapNboebgHCkDGV/QHilGX6slWEhUaqZgqQKBgEDs\ng3jZzigvRWVarrWlNDoetiTq7Qtkj9my1LuaMd1Wpumsw3FgnJmejz2O2vr8nrJY\nJT+6yKs1ZLoc41LdcATc8XN+akf3cnTFvL9QFaJ+rmcbwzABFrxng0XotdljfCGw\n2fMXibffYzkozJPkMZbjWScBWEMP6BdXmDAsOpGZAoGBALRw/mL57qUS2YWXzVig\nH2ISNYWWn0j4+p7UKnkJpD7GXE35+KXed39zKhK/qhrcgNuKxLxKpBAlrO0QWWop\ntXcEVqIp0LIksmMCH493FPPO2mQH2Fe00/fatmuznXhG6+GEiQVZlHYiAkraLakt\nyutBgNWQ9x+RaWxGoJTPsXE6\n-----END PRIVATE KEY-----\n",
+  "client_email": "gbbot-255@bankingchatbotkaldin-isbk.iam.gserviceaccount.com",
+  "client_id": "100774067605347195145",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gbbot-255%40bankingchatbotkaldin-isbk.iam.gserviceaccount.com"
+}
